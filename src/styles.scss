@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+@use 'scss-reset';
+
+:root {
+    color: grey;
+    font-size: 1.2rem;
+    line-height: 1.2em;
+}
